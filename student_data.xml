@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>001</id>
+        <name>Jhonrie Solema</name>
+        <course>BSIT</course>
+        <year>3</year>
+    </student>
+    <student>
+        <id>002</id>
+        <name>Bogart Baldo</name>
+        <course>BSCS</course>
+        <year>4</year>
+    </student>
+</students>
